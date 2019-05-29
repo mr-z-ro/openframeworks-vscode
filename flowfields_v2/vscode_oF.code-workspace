@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "${workspaceRoot}/../../../libs/openFrameworks"
+		},
+		{
+			"path": "${workspaceRoot}/../../../addons"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"__split_buffer": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
